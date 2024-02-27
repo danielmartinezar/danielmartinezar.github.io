@@ -52,7 +52,7 @@ export default function AboutSection() {
       <div className="md:grid md:grid-cols-2 gap-8 items-center py-8 px-4 xl:gap-16 sm:py-16 xl:px-16 lg:mt-24">
         <Image
           className="self-start mt-16"
-          src={"/images/aboutImage.png"}
+          src={"./images/aboutImage.png"}
           alt="About"
           width={500}
           height={500}

@@ -7,7 +7,7 @@ export default function ProjectsSection() {
       id: 1,
       title: "Online Payment System for an Educational Institution",
       description: "React, MaterialUI, Express, MySQL, Git, API REST, SOA.",
-      image: "/images/photoDaniel.png",
+      image: "./images/photoDaniel.png",
       tag: ["All", "Full Stack"],
     },
     {
@@ -15,7 +15,7 @@ export default function ProjectsSection() {
       title: "Habit Tracker",
       description:
         "Flutter, Getx, Firebase, Clean architecture, Collaborative working",
-      image: "/images/photoDaniel.png",
+      image: "./images/photoDaniel.png",
       tag: ["All", "Mobile"],
     },
   ];
